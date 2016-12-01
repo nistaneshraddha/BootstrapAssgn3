@@ -1,0 +1,33 @@
+.head {
+    background-color: pink;
+}
+
+.nav {
+    background-color: #128dc5;
+    color: white;
+}
+
+.navcol {
+    color: white;
+}
+
+.section1 {
+    background-color: pink;
+}
+
+.table-responsive {
+    background-color: pink;
+}
+
+.backcolor {
+    background-color: pink;
+}
+
+.form-control {
+    width: 84%;
+    margin-left: 10px;
+}
+
+.btn-success {
+    margin-left: 10px;
+}
